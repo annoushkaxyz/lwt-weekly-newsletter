@@ -78,6 +78,15 @@ The assistant can collect and format. It cannot choose for me.
 - **Wording.** I rewrite lines until they sound like me. For the Alcobaça slide, that meant shortening a long fair name into a sentence people can read at a glance: "Around 40 makers bring their sweets and liqueurs to Alcobaça's 28th Convent Sweets Fair."
 - **What gets published.** I edit the draft in chat, then ask for a newsletter draft or a site pull request when I am ready. I review the pull request before it is merged. The live site does not change until I say so.
 
+<p>
+  <img src="images/carousel-10-cover.webp" width="24%" alt="Carousel cover: top 10 Lisbon weekend plans, 20-22 Nov">
+  <img src="images/carousel-10-1-mnaa.webp" width="24%" alt="Slide 1: Museu de Arte Antiga is back">
+  <img src="images/carousel-10-3-feira-das-almas.webp" width="24%" alt="Slide 3: vintage at Feira das Almas">
+  <img src="images/carousel-10-5-alcobaca.webp" width="24%" alt="Slide 5: a monastery full of sweets, Alcobaça">
+</p>
+
+Four slides from the edition #10 carousel, in the order I set for social. The Alcobaça slide carries the rewritten line above. The Feira das Almas slide says pets are welcome, the kind of claim that gets checked on the organiser's own page before it goes out.
+
 A published pick from edition #1 is in [`examples/weekend-list-1-teatro-d-maria-ii.md`](examples/weekend-list-1-teatro-d-maria-ii.md), so the tone is easy to compare with the brief.
 
 ---
