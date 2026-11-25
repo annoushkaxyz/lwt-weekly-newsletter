@@ -6,6 +6,14 @@ I research, edit and publish this as a one-person project, with an AI assistant 
 
 This repo is the brief, the rules that keep it honest, and a record of how those rules have changed. The first edition went out on 17 September 2026. Edition #10 covered 20-22 November 2026.
 
+<p>
+  <a href="https://www.lisbonweekendtrips.com/weekend/10"><img src="images/cover-10.webp" width="32%" alt="The Weekend List #10 cover, 20-22 Nov 2026"></a>
+  <a href="https://www.lisbonweekendtrips.com/weekend/8"><img src="images/cover-08.webp" width="32%" alt="The Weekend List #8 cover, 6-8 Nov 2026"></a>
+  <a href="https://www.lisbonweekendtrips.com/weekend/6"><img src="images/cover-06.webp" width="32%" alt="The Weekend List #6 cover, 23-25 Oct 2026"></a>
+</p>
+
+Covers from editions [#10](https://www.lisbonweekendtrips.com/weekend/10) (Arte Antiga reopens, Misty Fest, convent sweets in Alcobaça), [#8](https://www.lisbonweekendtrips.com/weekend/8) (LEFFEST, Lisbon Art Weekend, Golegã's horse fair) and [#6](https://www.lisbonweekendtrips.com/weekend/6) (home movies, baroque music, a pumpkin escape). Every cover is a collage of that weekend's picks. All editions are in the [archive](https://www.lisbonweekendtrips.com/weekend).
+
 ## The problem
 
 Finding ten good weekend plans, every week, takes more time than it looks. Each pick has to be real, still on, and worth leaving the house for. It also cannot be something I already featured.
