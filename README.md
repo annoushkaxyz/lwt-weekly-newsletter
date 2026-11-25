@@ -12,7 +12,7 @@ This repo is the brief, the rules that keep it honest, and a record of how those
   <a href="https://www.lisbonweekendtrips.com/weekend/6"><img src="images/cover-06.webp" width="32%" alt="The Weekend List #6 cover, 23-25 Oct 2026"></a>
 </p>
 
-Covers from editions [#10](https://www.lisbonweekendtrips.com/weekend/10) (Arte Antiga reopens, Misty Fest, convent sweets in Alcobaça), [#8](https://www.lisbonweekendtrips.com/weekend/8) (LEFFEST, Lisbon Art Weekend, Golegã's horse fair) and [#6](https://www.lisbonweekendtrips.com/weekend/6) (home movies, baroque music, a pumpkin escape). Every cover is a collage of that weekend's picks. All editions are in the [archive](https://www.lisbonweekendtrips.com/weekend).
+Covers from editions [#10](https://www.lisbonweekendtrips.com/weekend/10) (Arte Antiga reopens, Misty Fest, convent sweets in Alcobaça), [#8](https://www.lisbonweekendtrips.com/weekend/8) (LEFFEST, Lisbon Art Weekend, Golegã's horse fair) and [#6](https://www.lisbonweekendtrips.com/weekend/6) (home movies, baroque music, a pumpkin escape). Every cover is a collage of that weekend's picks. Some of the visuals in covers and slides are generated with ChatGPT, where that fits. All editions are in the [archive](https://www.lisbonweekendtrips.com/weekend).
 
 ## The problem
 
