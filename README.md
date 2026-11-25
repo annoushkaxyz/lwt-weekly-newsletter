@@ -2,7 +2,7 @@
 
 Every Thursday I send The Weekend List, a newsletter of things to do in Lisbon and a short drive away. I want about ten verified plans for the coming Friday to Sunday, not a scraped events calendar.
 
-I research, edit and publish this as a one-person project, with an AI assistant running a weekly scheduled brief. The assistant does the research and the first draft. I decide what goes out.
+I research, edit and publish this as a one-person project, with Grok as my assistant, running a weekly scheduled brief. Grok does the research, checks every pick against official sources, and writes the first draft. I decide what goes out.
 
 This repo is the brief, the rules that keep it honest, and a record of how those rules have changed. The first edition went out on 17 September 2026. Edition #10 covered 20-22 November 2026.
 
@@ -26,7 +26,7 @@ The brief exists so the assistant can arrive with a full, sourced draft, and I c
 
 ```mermaid
 flowchart TD
-  A[Weekly scheduled brief] --> B[Include any organiser requests already saved for this edition]
+  A[Weekly scheduled brief, run by Grok] --> B[Include any organiser requests already saved for this edition]
   B --> C[Research the coming Friday to Sunday]
   C --> D[Verify each pick against its own website or Instagram]
   D --> E[Check it was not featured in a past edition]
