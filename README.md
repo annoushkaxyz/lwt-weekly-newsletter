@@ -34,12 +34,12 @@ flowchart TD
   F --> G[I edit: taste, order, wording, and cuts]
   G --> H[Publish only when I ask]
   H --> I[Carousel text, captions, and tags]
-  H --> J[Update the This Weekend page in a pull request I review]
+  H --> J[Cursor's agent updates the This Weekend page in a pull request I review]
 ```
 
 Times are in Lisbon time. The brief also notes a major Thursday evening when that is part of the weekend.
 
-After the newsletter, the same picks are turned into Instagram and TikTok carousel text, a caption with tags, a TikTok caption without tags, and the [This Weekend](https://www.lisbonweekendtrips.com/this-weekend) page on [lisbonweekendtrips.com](https://www.lisbonweekendtrips.com). Tags are taken only from official sites. The site update arrives as a pull request, so I can review the images and the order before anything goes live.
+After the newsletter, the same picks are turned into Instagram and TikTok carousel text, a caption with tags, a TikTok caption without tags, and the [This Weekend](https://www.lisbonweekendtrips.com/this-weekend) page on [lisbonweekendtrips.com](https://www.lisbonweekendtrips.com). Tags are taken only from official sites. The site update is made by Cursor's agent, working together with Grok, and arrives as a pull request, so I can review the images and the order before anything goes live.
 
 ## Guardrails
 
